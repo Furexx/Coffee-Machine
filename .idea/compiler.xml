@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine2.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Arrays_as_parameters-Application_as_a_class.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Arrays_as_parameters-Sorting_numbers.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Instance_methods-Complex_numbers.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Check_if_an_array_contains_two_numbers.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Iterating_over_arrays-Two_numbers_never_occur_next_to_each_other.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Swap_the_columns.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-The_star_figure.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Objects-Army.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Objects-Preparing_full_name.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Objects-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Static_members-Time_constants.main" target="11" />
+      <module name="Coffee_Machine2.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-Arithmetic_average.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-Fizz_Buzz.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-Maximum_element_divisible_by_four.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-Size_of_parts.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-The_roots_of_an_equation.main" target="11" />
+      <module name="Coffee_Machine2.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Coffee_Machine2.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
